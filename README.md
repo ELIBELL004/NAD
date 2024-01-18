@@ -10,14 +10,14 @@ High activity from specific IPs
 Unusual traffic for certain protocols
 Activity on common attack ports
 Provides insights into your network traffic patterns, helping you identify potential security concerns.
-Features:
 
 # Simple and customizable: 
 
 Easy to use with configurable capture settings and analysis parameters.
+
 Powerful anomaly detection: Built-in rules and a framework for integrating machine learning for even more advanced threat identification.
 Actionable insights: Gain valuable information about your network traffic to inform security decisions.
-Getting started:
+
 
 # Clone the repository:
 
@@ -27,9 +27,10 @@ git clone https://github.com/your-username/network-traffic-analyzer.git
 pip install -r requirements.txt
 Run the script:
 python main.py
-Customize and enhance:
+scapy
 
-# Tune the rules and thresholds: 
+
+# Tune the thresholds: 
 Adapt them to your specific network environment and security needs.
 Integrate machine learning: Train a model on labeled network traffic data for advanced anomaly detection.
 Visualize results: Use libraries like Matplotlib to create insightful graphs and charts.
